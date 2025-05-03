@@ -33,7 +33,7 @@ instrumentSchema.pre("save", function (next) {
 });
 
 instrumentSchema.post(/^find/, function (docs) {
-  const baseUrl = `http://localhost:3000/public/imgs/instruments/`;
+  const baseUrl = `https://accepted-bonni-selvster-e5e6faa2.koyeb.app/public/imgs/instruments/`;
 
   if (Array.isArray(docs)) {
     docs.forEach((doc) => {
