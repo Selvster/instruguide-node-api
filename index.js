@@ -23,17 +23,8 @@ app.use(xss());
 app.use(hpp());
 app.use(compression());
 app.use(helmet());
-app.use(
-  cors({
-    origin: "*",
-  })
-);
-app.options(
-  "*",
-  cors({
-    origin: "*",
-  })
-);
+
+app.use(cors());
 
 app.use("/api/instruments", routes);
 app.use("/api/auth/login", adminLogin);
