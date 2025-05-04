@@ -4,174 +4,199 @@
     "slug": "cmm",
     "image": "cmm.jpeg",
     "description": "A CMM is a device for measuring the physical geometrical characteristics of an object. It can be operated manually or controlled via computer. A CMM is equipped with a probe, which touches the object's surface. The probe may be mechanical, optical, laser, or white light. The probe's movement is recorded by the CMM's computer and can be used to measure the object's geometry.",
-    "category": "Mechanical & Dimensional Measurement"
+    "category": "Mechanical & Dimensional Measurement",
+    "video": "https://youtu.be/5F37vUEfxM0?si=klISFyVpAiazA3jz"
   },
   {
     "name": "Optical Comparator",
     "slug": "optical-comparator",
     "image": "optical-comparator.jpeg",
     "description": "An Optical Comparator projects the image of a part onto a screen using light, allowing precise comparison of the part’s dimensions against specified limits or a reference overlay. It’s widely used for quality control and inspection of manufactured parts.",
-    "category": "Mechanical & Dimensional Measurement"
+    "category": "Mechanical & Dimensional Measurement",
+    "video": "https://youtu.be/K1oqWxtfmTc?si=9Es-IsTjoc6iSrpI"
   },
   {
     "name": "Laser Distance Meter",
     "slug": "laser-distance-meter",
     "image": "laser-distance-meter.jpeg",
     "description": "A Laser Distance Meter uses laser technology to accurately measure distances, typically used in construction and surveying. It offers fast, reliable, and non-contact distance measurement.",
-    "category": "Mechanical & Dimensional Measurement"
+    "category": "Mechanical & Dimensional Measurement",
+    "video": "https://youtu.be/LU4zYTCnHFQ?si=aHxxyucBwAsd7J4R"
   },
   {
     "name": "Profile Projector",
     "slug": "profile-projector",
     "image": "profile-projector.jpeg",
     "description": "A Profile Projector magnifies and projects the profile of a small part onto a screen, enabling precise measurements and inspection of shapes, angles, and dimensions.",
-    "category": "Mechanical & Dimensional Measurement"
+    "category": "Mechanical & Dimensional Measurement",
+    "video": "https://youtu.be/NvsTieMIbeI?si=yO8YYvs8JCdt-z8i"
   },
   {
     "name": "Dial Indicator",
     "slug": "dial-indicator",
     "image": "dial-indicator.jpeg",
     "description": "A Dial Indicator measures small linear displacements in mechanical systems, often used for alignment and measurement of runout or surface flatness.",
-    "category": "Mechanical & Dimensional Measurement"
+    "category": "Mechanical & Dimensional Measurement",
+    "video": "https://youtu.be/3p-kfNZBTB0?si=rcrgi6HTObXu8Bny"
   },
   {
     "name": "Oscilloscope",
     "slug": "oscilloscope",
     "image": "oscilloscope.jpeg",
     "description": "An Oscilloscope is an electronic test instrument that graphically displays varying signal voltages, typically as a two-dimensional plot of one or more signals as a function of time.",
-    "category": "Electrical & Electronic Measurement"
+    "category": "Electrical & Electronic Measurement",
+    "video": "https://youtu.be/lSHAE_Y6snc?si=NeO45_kZUP4BDl0v"
   },
   {
     "name": "LCR Meter",
     "slug": "lcr-meter",
     "image": "lcr-meter.jpeg",
     "description": "An LCR Meter measures the inductance (L), capacitance (C), and resistance (R) of electronic components, essential for quality control and circuit design.",
-    "category": "Electrical & Electronic Measurement"
+    "category": "Electrical & Electronic Measurement",
+    "video": "https://youtu.be/C3AVUHcOIOc?si=hxdeMiXY1Zo8Mhmv"
   },
   {
     "name": "Spectrum Analyzer",
     "slug": "spectrum-analyzer",
     "image": "spectrum-analyzer.jpeg",
     "description": "A Spectrum Analyzer displays signal amplitude as it varies by frequency, useful in identifying and analyzing the frequency components of electrical signals, especially in RF and audio testing.",
-    "category": "Electrical & Electronic Measurement"
+    "category": "Electrical & Electronic Measurement",
+    "video": "https://youtu.be/P5gxNGckjLc?si=mV0INoUEZ1RfV2MF"
   },
   {
     "name": "Power Analyzer",
     "slug": "power-analyzer",
     "image": "power-analyzer.jpeg",
     "description": "A Power Analyzer measures and evaluates various electrical power parameters such as voltage, current, power factor, frequency, and energy consumption in AC and DC circuits.",
-    "category": "Electrical & Electronic Measurement"
+    "category": "Electrical & Electronic Measurement",
+    "video": "https://youtu.be/k75p3jw-gF8?si=eWoxROErmF8oChGi"
   },
   {
     "name": "Logic Analyzer",
     "slug": "logic-analyzer",
     "image": "logic-analyzer.jpeg",
     "description": "A Logic Analyzer captures and displays multiple signals from a digital system or circuit, enabling debugging and timing analysis of complex logic designs.",
-    "category": "Electrical & Electronic Measurement"
+    "category": "Electrical & Electronic Measurement",
+    "video": "https://youtu.be/u1DYs2I-_lU?si=uv9GEYXgjIAT6Ugr"
   },
   {
     "name": "Infrared Thermometer",
     "slug": "infrared-thermometer",
     "image": "infrared-thermometer.jpeg",
     "description": "An Infrared Thermometer measures surface temperature from a distance using infrared radiation, ideal for hazardous or hard-to-reach environments.",
-    "category": "Thermal & Environmental Measurement"
+    "category": "Thermal & Environmental Measurement",
+    "video": "https://youtu.be/SSACsLrUHyQ?si=BVT0l4LDzq3oQU1V"
   },
   {
     "name": "Thermal Imaging Camera",
     "slug": "thermal-imaging-camera",
     "image": "thermal-imaging-camera.jpeg",
     "description": "A Thermal Imaging Camera captures images based on heat emissions, allowing users to see temperature differences and heat patterns in various applications such as electrical inspections and building diagnostics.",
-    "category": "Thermal & Environmental Measurement"
+    "category": "Thermal & Environmental Measurement",
+    "video": "https://youtu.be/6UAfCCzV874?si=LCGswvvHF1J6YEoG"
   },
   {
     "name": "Hygrometer",
     "slug": "hygrometer",
     "image": "hygrometer.jpeg",
     "description": "A Hygrometer measures the moisture content or the humidity in the air, commonly used in meteorology, HVAC, and environmental monitoring.",
-    "category": "Thermal & Environmental Measurement"
+    "category": "Thermal & Environmental Measurement",
+    "video": "https://youtu.be/4nwZ3I9MwzA?si=SzpjCdVtDrE7QNlv"
   },
   {
     "name": "Anemometer",
     "slug": "anemometer",
     "image": "anemometer.jpeg",
     "description": "An Anemometer is used to measure wind speed and airflow. It’s commonly found in weather stations and HVAC system testing tools.",
-    "category": "Thermal & Environmental Measurement"
+    "category": "Thermal & Environmental Measurement",
+    "video": "https://youtu.be/c8kB0BK6XD0?si=vBOrE6KEojSyFYj0"
   },
   {
     "name": "Seismometer",
     "slug": "seismometer",
     "image": "seismometer.jpeg",
     "description": "A Seismometer detects and records vibrations and movements in the ground, especially those caused by earthquakes or large machinery.",
-    "category": "Thermal & Environmental Measurement"
+    "category": "Thermal & Environmental Measurement",
+    "video": "https://youtu.be/geNiqkgZDXA?si=RijpyD4GK7iBTLFv"
   },
   {
     "name": "pH Meter",
     "slug": "ph-meter",
     "image": "ph-meter.jpeg",
     "description": "A pH Meter determines the hydrogen-ion activity in a solution, indicating its acidity or alkalinity, widely used in laboratories, water testing, and food processing.",
-    "category": "Chemical & Fluid Measurement"
+    "category": "Chemical & Fluid Measurement",
+    "video": "https://youtu.be/vwY-xWMam7o?si=S7IhhNurBo9tXi7-"
   },
   {
     "name": "Refractometer",
     "slug": "refractometer",
     "image": "refractometer.jpeg",
     "description": "A Refractometer measures the refractive index of a liquid or solid substance, often used in the food, beverage, and chemical industries to assess concentration or purity.",
-    "category": "Chemical & Fluid Measurement"
+    "category": "Chemical & Fluid Measurement",
+    "video": "https://youtu.be/Qd9uJ9JitJw?si=p7czXcHY7cm2EUUz"
   },
   {
     "name": "Gas Chromatograph",
     "slug": "gas-chromatograph",
     "image": "gas-chromatograph.jpeg",
     "description": "A Gas Chromatograph separates and analyzes compounds that can be vaporized without decomposition, commonly used in chemical analysis and quality control.",
-    "category": "Chemical & Fluid Measurement"
+    "category": "Chemical & Fluid Measurement",
+    "video": "https://youtu.be/6Z61ezJFfyA?si=rL3Mb4pKc-7v81DH"
   },
   {
     "name": "Turbidity Meter",
     "slug": "turbidity-meter",
     "image": "turbidity-meter.jpeg",
     "description": "A Turbidity Meter measures the cloudiness or haziness of a fluid, indicating the presence of suspended solids. It is widely used in water quality testing.",
-    "category": "Chemical & Fluid Measurement"
+    "category": "Chemical & Fluid Measurement",
+    "video": "https://youtu.be/T5b_t6hqywQ?si=96qBSi8Hnq_f-ITo"
   },
   {
     "name": "Flow Meter",
     "slug": "flow-meter",
     "image": "flow-meter.jpeg",
     "description": "A Flow Meter measures the flow rate of liquids or gases in pipes or open channels, essential in industrial processes and water treatment systems.",
-    "category": "Chemical & Fluid Measurement"
+    "category": "Chemical & Fluid Measurement",
+    "video": "https://youtu.be/6NBeSbiqeOo?si=KOmytrerUs8xbcPw"
   },
   {
     "name": "Mass Spectrometer",
     "slug": "mass-spectrometer",
     "image": "mass-spectrometer.jpeg",
     "description": "A Mass Spectrometer identifies molecules by measuring their mass-to-charge ratio, playing a key role in chemical analysis, proteomics, and drug discovery.",
-    "category": "Advanced Scientific Measurement"
+    "category": "Advanced Scientific Measurement",
+    "video"  : "https://youtu.be/a6UZcCDnicQ?si=w5Uh1-M4yxNsCb-P"
   },
   {
     "name": "Electron Microscope",
     "slug": "electron-microscope",
     "image": "electron-microscope.jpeg",
     "description": "An Electron Microscope uses a beam of electrons to create highly magnified images of tiny objects at the atomic or nanometer scale, used in advanced research and materials science.",
-    "category": "Advanced Scientific Measurement"
+    "category": "Advanced Scientific Measurement",
+    "video" : "https://youtu.be/9DnnxvS6BBQ?si=QjjegJP5Ds8Whtnt"
   },
   {
     "name": "X-ray Diffractometer",
     "slug": "x-ray-diffractometer",
     "image": "x-ray-diffractometer.jpeg",
     "description": "An X-ray Diffractometer analyzes the crystal structure of materials by observing the pattern of X-ray diffraction, widely used in material science and mineralogy.",
-    "category": "Advanced Scientific Measurement"
+    "category": "Advanced Scientific Measurement",
+    "video" : "https://youtu.be/07iZ7-IEyYE?si=GykgpBs-pQLFCUJL"
   },
   {
     "name": "Particle Counter",
     "slug": "particle-counter",
     "image": "particle-counter.jpeg",
     "description": "A Particle Counter measures and counts physical particles in air or liquids, critical in cleanroom environments and contamination control.",
-    "category": "Advanced Scientific Measurement"
+    "category": "Advanced Scientific Measurement",
+    "video" : "https://youtu.be/0PgGTKKBG0g?si=yHJ4fMaM4eIX97BZ"
   },
   {
     "name": "Atomic Force Microscope (AFM)",
     "slug": "atomic-force-microscope",
     "image": "atomic-force-microscope.jpeg",
     "description": "An Atomic Force Microscope (AFM) provides high-resolution 3D images of surfaces by scanning a fine tip over the material, used for nanoscale measurements and material analysis.",
-    "category": "Advanced Scientific Measurement"
+    "category": "Advanced Scientific Measurement",
+    "video" : "https://youtu.be/jRAqhFdwt20?si=46H3tuggHfEWX_Vf"
   }
 ]

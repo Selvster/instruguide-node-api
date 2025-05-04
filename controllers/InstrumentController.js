@@ -23,7 +23,7 @@ export const getInstrumentById = async (req, res, next) => {
 };
 
 export const createInstrument = async (req, res, next) => {
-  const { name, description, category } = req.body;
+  const { name, description, category, video } = req.body;
   const image = req.file ? req.file.filename : ""; // Get the image filename
 
   try {
@@ -32,6 +32,7 @@ export const createInstrument = async (req, res, next) => {
       image,
       description,
       category,
+      video
     });
 
     await newInstrument.save();
@@ -43,20 +44,16 @@ export const createInstrument = async (req, res, next) => {
 
 // Update instrument function
 export const updateInstrument = async (req, res, next) => {
-  const { name, description, category } = req.body;
+  const { name, description, category, video } = req.body;
   let image = req.body.image;
   if (req.file) {
     image = req.file.filename;
-    const oldInstrument = await Instrument.findById(req.params.id);
-    if (oldInstrument && oldInstrument.image) {
-      fs.unlinkSync(`./public/imgs/instruments/${oldInstrument.image}`);
-    }
   }
 
   try {
     const updatedInstrument = await Instrument.findByIdAndUpdate(
       req.params.id,
-      { name, image, description, category },
+      { name, image, description, category, video },
       { new: true }
     );
 
@@ -76,7 +73,6 @@ export const deleteInstrument = async (req, res, next) => {
     if (!deletedInstrument) {
       return res.status(404).json({ message: "Instrument not found" });
     }
-    fs.unlinkSync(`./public/imgs/instruments/${deletedInstrument.image}`); 
     res.status(200).json({ message: "Instrument deleted successfully" });
   } catch (error) {
     next(error);

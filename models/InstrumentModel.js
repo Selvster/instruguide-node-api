@@ -23,6 +23,10 @@ const instrumentSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  video: {
+    type: String,
+    required: true
+  }
 });
 
 instrumentSchema.pre("save", function (next) {
